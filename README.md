@@ -1,6 +1,6 @@
 
-
-# Job+Role Playing! using openAI assistant api
+# 직업 체험 롤플레잉 게임
+Job+Role Playing! using openAI assistant api
 
 This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
 
