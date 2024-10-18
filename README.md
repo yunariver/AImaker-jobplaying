@@ -1,11 +1,16 @@
 
 # 직업 체험 롤플레잉 게임🎮🧑‍💻🧑‍💻
-Job+Role Playing! using openAI assistant api
+Job+Role Playing! using openAI assistant API, whisper, gradio.
+
+이 프로젝트는 청소년을 위한 직업 체험 롤플레잉 게임입니다! 
+사용자는 의사, 교사, 작곡가 등 다양한 직업을 맡고, AI 어시스턴트가 유연하게 대응하여 실감 나는 직업 경험을 제공합니다. 
+다양한 시뮬레이션에서 문제를 해결하며 청소년들은 각 직업에 대해 깊이 이해할 수 있습니다. 
+assistant API를 통한 대화 처리, whisper 음성 인식을 활용하고 그리고 gradio를 통한 사용자 친화적인 인터페이스를 갖추고 있습니다.
 
 This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
 
 
-이 프로젝트는 청소년을 위한 직업 체험 롤플레잉 게임입니다. 사용자는 의사, 교사, 작곡가 등 다양한 직업을 맡아보며, AI 어시스턴트가 유연하게 대응하여 실감 나는 직업 경험을 제공합니다. 이를 통해 청소년들은 다양한 시뮬레이션에서 문제를 해결하며 각 직업에 대해 깊이 이해할 수 있습니다. 이 시스템은 대화 처리, 음성 인식, 그리고 사용자 친화적인 인터페이스를 갖추고 있습니다.
+
 
 
 
