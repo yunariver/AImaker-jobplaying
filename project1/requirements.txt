@@ -1,0 +1,7 @@
+gradio
+openai
+torch
+transformers
+torchaudio
+python-dotenv
+
