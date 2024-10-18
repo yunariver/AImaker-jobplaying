@@ -1,6 +1,5 @@
-아래는 영어와 한국어로 작성된 `README.md` 예시입니다:
 
-```markdown
+
 # Job+Role Playing! using openAI assistant api
 
 This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
@@ -11,7 +10,7 @@ This project is a role-playing game designed for teenagers to explore different 
 
 
 
-
+```markdown
 ## Installation / 설치 방법
 
 1. Clone the repository:
