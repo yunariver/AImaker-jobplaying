@@ -43,7 +43,7 @@ This project is a role-playing game designed for teenagers to explore different 
 
 
 
-#02. 시작가이드
+# 02. 시작가이드
 ```markdown
 ## Installation / 설치 방법
 
@@ -106,7 +106,7 @@ This will start the Gradio interface, where you can interact with the AI assista
 - **requirements.txt**: Lists the required Python packages.
   필요한 Python 패키지 목록을 담은 파일입니다.
   
-##기술 스택
+## 기술 스택
 AI 대화 모델: Assistant API (OpenAI GPT 등)
 음성 인식: Whisper
 사용자 인터페이스: Gradio
