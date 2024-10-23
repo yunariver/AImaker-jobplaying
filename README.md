@@ -1,11 +1,36 @@
-
+#01.
 # 직업 체험 롤플레잉 게임🎮🧑‍💻🧑‍💻
 Job+Role Playing! using openAI assistant API, whisper, gradio.
+(2024.10.5 ~2024.10.26 )
+
+## 🦹‍ Team
+**SEOUL AI MAKER** : 시립서울청소년센터 자치단으로, 인공지능을 활용하여 청소년을 위한 서비스와 교육을 기획하는 단체입니다. 
+AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
+## 🦹‍ Team
+
+| **강윤하** [@yunariver](https://github.com/yunariver) | **박수진** [@suuuujinnnn](https://github.com/suuuujinnnn) | **박윤서**  | **이다영**  |
+|:---:|:---:|:---:|:---:|
+| 대화 처리 시스템 구축(Assistant API, Whisper), Gradio UI설계 , 게임 로직 구현| 직업별 코드 최적화, 안정성 테스트, 교육자료 및 매뉴얼 제작, 프롬프트 엔지니어링 | 게임 로직 구현, 성공률 밸런스 테스트, 팜플렛 디자인, 프롬프트 엔지니어링| 프롬프트 엔지니어링, 시뮬레이션 테스트 및 최적화 |
+| ![]🍎 | ![]🍊 | ![]🍋 | ![]🍉|
+
+| **강민주** | **김강민**  | **김영우** | **박재영** | **송현수**  |
+|:---:|:---:|:---:|:---:|:---:|
+| 팜플렛 디자인, 부스 디자인 | 프로그램 기획서 및 문서화, 예산 관리  | 직업 별 페르소나 설정 및 스토리라인 구체화 & 피드백 수집 및 평가 |  포스터, 팜플렛 디자인, 예산관리 | 포스터, 팻말, 현수막 디자인, 직업별 역할 문서화
+| ![]🍑| ![]🫐 | ![]🍓| ![]🥝| ![]🥥|
+
+
 
 이 프로젝트는 청소년을 위한 직업 체험 롤플레잉 게임입니다! 
-사용자는 의사, 교사, 작곡가 등 다양한 직업을 맡고, AI 어시스턴트가 유연하게 대응하여 실감 나는 직업 경험을 제공합니다. 
+사용자는 의사, 교사, 작곡가 등 다양한 직업을 맡고, AI 어시스턴트가 유연하게 대응하여 실감 나는 직업 경험을 제공합니다.
+성공률이 100%에 도달하면 사용자가 이기는 게임으로, 사용자가 직업을 깊이 이해하고, 직업 윤리에 맞게 행동할수록 성공률이 높아집니다!
 다양한 시뮬레이션에서 문제를 해결하며 청소년들은 각 직업에 대해 깊이 이해할 수 있습니다. 
-assistant API를 통한 대화 처리, whisper 음성 인식을 활용하고 그리고 gradio를 통한 사용자 친화적인 인터페이스를 갖추고 있습니다.
+
+주요 기능 : 직업 시뮬레이션 / 실시간 대화 / 음성 및 텍스트 입력 
+###기술 구성 요소
+- Assistant API를 통한 대화 처리:사용자는 직업별 시뮬레이션 내에서 자연어로 질문을 하거나 지시를 내릴 수 있으며, AI 어시스턴트는 해당 직업에 맞는 적절한 대응을 제공합니다.
+- Whisper 음성 인식을 활용한 사용자 입력 :  음성 입력을 텍스트로 변환하여 대화형 인터페이스에서 사용됩니다.
+- gradio를 통한 사용자 친화적인 인터페이스
+
 
 This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
 
@@ -14,7 +39,7 @@ This project is a role-playing game designed for teenagers to explore different 
 
 
 
-
+#02. 시작가이드
 ```markdown
 ## Installation / 설치 방법
 
@@ -76,4 +101,9 @@ This will start the Gradio interface, where you can interact with the AI assista
   
 - **requirements.txt**: Lists the required Python packages.
   필요한 Python 패키지 목록을 담은 파일입니다.
-
+  
+##기술 스택
+AI 대화 모델: Assistant API (OpenAI GPT 등)
+음성 인식: Whisper
+사용자 인터페이스: Gradio
+프레임워크: Python
