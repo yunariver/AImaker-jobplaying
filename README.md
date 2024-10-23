@@ -6,17 +6,142 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 ## 🦹‍ Team
 **SEOUL AI MAKER** : 시립서울청소년센터 자치단으로, 인공지능을 활용하여 청소년을 위한 서비스와 교육을 기획하는 단체입니다. 
 AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
-## 🦹‍ Team
+## 👶 팀원
 
-| **강윤하** [@yunariver](https://github.com/yunariver) | **박수진** [@suuuujinnnn](https://github.com/suuuujinnnn) | **박윤서** | **이다영**  |
-|:---:|:---:|:---:|:---:|
-| 대화 처리 시스템 구축, UI 설계, 게임 기획 및 로직 구현, 프로그램 구체화 및 문서화 | 직업별 코드 최적화, 안정성 테스트, 교육 자료 및 매뉴얼 제작, 프로그램 구체화 및 문서화 | 게임 로직 구현, 성공률 밸런스 테스트, 팜플렛 디자인, 프롬프트 엔지니어링 | 프롬프트 엔지니어링, 시뮬레이션 테스트 및 최적화 |
-| 🍎 | 🍊 | 🍋 | 🍉 |
+<table border="" cellspacing="0" cellpadding="0" max-width="2000px">
+    <tr width="100%">
+        <td align="center"><a href="https://github.com/yunariver">강윤하 🍎</a></td>
+        <td align="center"><a href="https://github.com/suuuujinnnn">박수진 🍊</a></td>
+        <td align="center"><a href="">박윤서 🍋</a></td>
+        <td align="center"><a href="">이다영 🍉</a></td>
+    </tr>
+    <tr width="100%">
+        <td align="center">
+          <a href="https://github.com/yunariver">
+            <img src="https://avatars.githubusercontent.com/u/35277854?v=4" width="120px"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/suuuujinnnn">
+            <img src="https://avatars.githubusercontent.com/u/55571682?v=4" width="120px"/>
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+    </tr>
+    <tr width="100%">
+      <td align="center">
+        <small>
+        대화 처리 시스템 구축<br>
+        UI 설계<br>
+        게임 기획 및 로직 구현<br>
+        프로그램 구체화 및 문서화
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        직업별 코드 최적화<br>
+        안정성 테스트<br>
+        교육 자료 및 매뉴얼 제작<br>
+        프로그램 구체화 및 문서화
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        게임 로직 구현<br>
+        성공률 밸런스 테스트<br>
+        팜플렛 디자인<br>
+        프롬프트 엔지니어링
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        프롬프트 엔지니어링<br>
+        시뮬레이션 테스트 및 최적화
+        </small>
+      </td>
+   </tr>
+</table>
 
-| **강민주** | **김강민** | **김영우** | **박재영** | **송현수**  |
-|:---:|:---:|:---:|:---:|:---:|
-| 팜플렛 기획 및 디자인, 부스 디자인 | 프로그램 기획서 작성, 예산 관리 | 직업별 페르소나 설정 및 스토리라인 구체화, 피드백 수집 및 평가 | 포스터, 팜플렛 기획 및 디자인, 예산 관리 | 포스터, 팻말, 현수막 디자인, 직업별 역할 문서화 |
-| 🍑 | 🫐 | 🍓 | 🥝 | 🥥 |
+<table border="" cellspacing="0" cellpadding="0" max-width="2000px">
+    <tr width="100%">
+        <td align="center"><a href="">강민주 🍑</a></td>
+        <td align="center"><a href="">김강민 🫐</a></td>
+        <td align="center"><a href="">김영우 🍓</a></td>
+        <td align="center"><a href="">박재영 🥝</a></td>
+        <td align="center"><a href="">송현수 🥥</a></td>
+    </tr>
+    <tr width="100%">
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
+          <a href="">
+            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+    </tr>
+    <tr width="100%">
+      <td align="center">
+        <small>
+        팜플렛 디자인<br>
+        브랜드 아이덴티티 개발<br>
+        콘텐츠 기획 및 작성<br>
+        디자인 시안 제작<br>
+        인쇄 관리
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        프로그램 기획서<br>
+        예산 관리
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        직업별 페르소나 설정 및 스토리라인 구체화<br>
+        피드백 수집 및 평가
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        포스터, 팜플렛 디자인<br>
+        예산 관리
+        </small>
+      </td>
+      <td align="center">
+        <small>
+        포스터, 팻말, 현수막 디자인<br>
+        직업별 역할 문서화
+        </small>
+      </td>
+   </tr>
+</table>
 
 
 
