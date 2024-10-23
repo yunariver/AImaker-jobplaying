@@ -52,31 +52,31 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
       </td>
       <td align="center">
         <small>
-        대화 처리 시스템 구축<br>
-        UI 설계<br>
-        게임 기획 및 로직 구현<br>
+        대화 처리 시스템 구축,<br>
+        UI 설계,<br>
+        게임 기획 및 로직 구현,<br>
         프로그램 구체화 및 문서화
         </small>
       </td>
       <td align="center">
         <small>
-        직업별 코드 최적화<br>
-        안정성 테스트<br>
-        교육 자료 및 매뉴얼 제작<br>
+        직업별 코드 최적화,<br>
+        안정성 테스트,<br>
+        교육 자료 및 매뉴얼 제작,<br>
         프로그램 구체화 및 문서화
         </small>
       </td>
       <td align="center">
         <small>
-        게임 로직 구현<br>
-        성공률 밸런스 테스트<br>
-        팜플렛 디자인<br>
+        게임 로직 구현,<br>
+        성공률 밸런스 테스트,<br>
+        팜플렛 디자인,<br>
         프롬프트 엔지니어링
         </small>
       </td>
       <td align="center">
         <small>
-        프롬프트 엔지니어링<br>
+        프롬프트 엔지니어링,<br>
         시뮬레이션 테스트 및 최적화
         </small>
       </td>
@@ -121,31 +121,31 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
     <tr width="100%">
       <td align="center">
         <small>
-        팜플렛 기획 및 디자인<br>
+        팜플렛 기획 및 디자인,<br>
         부스 디자인
         </small>
       </td>
       <td align="center">
         <small>
-        프로그램 기획서<br>
+        프로그램 기획서,<br>
         예산 관리
         </small>
       </td>
       <td align="center">
         <small>
-        직업별 페르소나 설정 및 스토리라인 구체화<br>
+        직업별 페르소나 설정 및 스토리라인 구체화,<br>
         피드백 수집
         </small>
       </td>
       <td align="center">
         <small>
-        포스터, 팜플렛 디자인<br>
+        포스터, 팜플렛 디자인,<br>
         예산 관리
         </small>
       </td>
       <td align="center">
         <small>
-        포스터, 팻말, 현수막 디자인<br>
+        포스터, 팻말, 현수막 디자인,<br>
         직업별 역할 문서화
         </small>
       </td>
