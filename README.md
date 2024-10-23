@@ -8,32 +8,33 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
 ## 👶 팀원
 
+
 <table border="" cellspacing="0" cellpadding="0" max-width="2000px">
     <tr width="100%">
-        <td align="center"><a href="https://github.com/yunariver">강윤하 🍎</a></td>
-        <td align="center"><a href="https://github.com/suuuujinnnn">박수진 🍊</a></td>
-        <td align="center"><a href="">박윤서 🍋</a></td>
-        <td align="center"><a href="">이다영 🍉</a></td>
+        <td align="center"><a href="https://github.com/yunariver">강윤하</a></td>
+        <td align="center"><a href="https://github.com/suuuujinnnn">박수진</a></td>
+        <td align="center"><a href="">박윤서</a></td>
+        <td align="center"><a href="">이다영</a></td>
     </tr>
     <tr width="100%">
         <td align="center">
           <a href="https://github.com/yunariver">
-            <img src="https://avatars.githubusercontent.com/u/35277854?v=4" width="120px"/>
+            <img src="" width="120px"/><br>🍎
           </a>
         </td>
         <td align="center">
           <a href="https://github.com/suuuujinnnn">
-            <img src="https://avatars.githubusercontent.com/u/55571682?v=4" width="120px"/>
+            <img src="" width="120px"/><br>🍊
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🍋 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🍉 <!-- Replace with the actual image URL -->
           </a>
         </td>
     </tr>
@@ -73,36 +74,36 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
 
 <table border="" cellspacing="0" cellpadding="0" max-width="2000px">
     <tr width="100%">
-        <td align="center"><a href="">강민주 🍑</a></td>
-        <td align="center"><a href="">김강민 🫐</a></td>
-        <td align="center"><a href="">김영우 🍓</a></td>
-        <td align="center"><a href="">박재영 🥝</a></td>
-        <td align="center"><a href="">송현수 🥥</a></td>
+        <td align="center"><a href="">강민주</a></td>
+        <td align="center"><a href="">김강민</a></td>
+        <td align="center"><a href="">김영우</a></td>
+        <td align="center"><a href="">박재영</a></td>
+        <td align="center"><a href="">송현수</a></td>
     </tr>
     <tr width="100%">
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🍑 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🫐 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🍓 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🥝 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/> <!-- Replace with the actual image URL -->
+            <img src="" width="120px"/><br>🥥 <!-- Replace with the actual image URL -->
           </a>
         </td>
     </tr>
@@ -142,7 +143,6 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
       </td>
    </tr>
 </table>
-
 
 
 
