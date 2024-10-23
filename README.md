@@ -1,6 +1,11 @@
 #01.
 # 직업 체험 롤플레잉 게임🎮🧑‍💻🧑‍💻
 Job+Role Playing! using openAI assistant API, whisper, gradio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0728ead3-2cda-4164-9afe-d502c944de80" alt="무제3">
+</p>
+
 (2024.10.5 ~2024.10.26 )
 
 
