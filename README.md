@@ -26,14 +26,17 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
 성공률이 100%에 도달하면 사용자가 이기는 게임으로, 사용자가 직업을 깊이 이해하고, 직업 윤리에 맞게 행동할수록 성공률이 높아집니다!
 다양한 시뮬레이션에서 문제를 해결하며 청소년들은 각 직업에 대해 깊이 이해할 수 있습니다. 
 
-주요 기능 : 직업 시뮬레이션 / 실시간 대화 / 음성 및 텍스트 입력 
-###기술 구성 요소
+
+This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
+
+
+## 주요 기능 : 직업 시뮬레이션 / 실시간 대화 / 음성 및 텍스트 입력 
+## 기술 구성 요소
 - Assistant API를 통한 대화 처리:사용자는 직업별 시뮬레이션 내에서 자연어로 질문을 하거나 지시를 내릴 수 있으며, AI 어시스턴트는 해당 직업에 맞는 적절한 대응을 제공합니다.
 - Whisper 음성 인식을 활용한 사용자 입력 :  음성 입력을 텍스트로 변환하여 대화형 인터페이스에서 사용됩니다.
 - gradio를 통한 사용자 친화적인 인터페이스
 
 
-This project is a role-playing game designed for teenagers to explore different careers. Users can take on roles such as a doctor, teacher, or composer, and interact with an AI assistant that responds flexibly to their actions. Through various simulations, teenagers can solve problems and gain a deeper understanding of different professions. The system includes conversation handling, speech recognition, and a user-friendly interface.
 
 
 
