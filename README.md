@@ -12,6 +12,8 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 ## 🦹‍ Team
 **SEOUL AI MAKER** : 시립서울청소년센터 자치단으로, 인공지능을 활용하여 청소년을 위한 서비스와 교육을 기획하는 단체입니다. 
 AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
+A self-governing group of the Seoul Youth Center, this organization plans services and education for young people using artificial intelligence. We strive together to creatively solve problems using AI technology and to bring about positive changes for youth.
+
 ## 👶 팀원
 
 <table border="" cellspacing="0" cellpadding="0" max-width="2000px">
@@ -175,8 +177,14 @@ This project is a role-playing game designed for teenagers to explore different 
 ## 기술 구성 요소
 - Assistant API를 통한 대화 처리:사용자는 직업별 시뮬레이션 내에서 자연어로 질문을 하거나 지시를 내릴 수 있으며, AI 어시스턴트는 해당 직업에 맞는 적절한 대응을 제공합니다.
 - Whisper 음성 인식을 활용한 사용자 입력 :  음성 입력을 텍스트로 변환하여 대화형 인터페이스에서 사용됩니다.
+  지난 상반기 교육에서 초등학교 저학년 학생들이 타자치는 것에 미숙하다는 것을 확인하였고, 음성 인식 기술을 도입하였습니다. 
 - gradio를 통한 사용자 친화적인 인터페이스
+- 
+Conversation processing through the Assistant API: Users can ask questions or give instructions in natural language within job simulations, and the AI assistant provides appropriate responses based on the profession. An interesting element of success rates is introduced, making it a game that distinguishes between success and failure.
 
+User input utilizing Whisper voice recognition: Voice input is converted into text for use in a conversational interface. The reason for implementing voice recognition was that during training in the first half of the year, it was observed that younger elementary school students struggled with typing, leading to the adoption of voice recognition technology.
+
+User-friendly interface through Gradio: We quickly created a solution using Gradio, which does not require a server. In the future, we plan to develop a complete web application using FastAPI and other technologies.
 
 
 
