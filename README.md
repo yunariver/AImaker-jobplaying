@@ -7,10 +7,11 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 **SEOUL AI MAKER** : 시립서울청소년센터 자치단으로, 인공지능을 활용하여 청소년을 위한 서비스와 교육을 기획하는 단체입니다. 
 AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
 ## 👶 팀원
-
+## 👶 팀원 소개
 
 <table border="" cellspacing="0" cellpadding="0" max-width="2000px">
     <tr width="100%">
+        <td align="center"><a href="">최유정</a></td>
         <td align="center"><a href="https://github.com/yunariver">강윤하</a></td>
         <td align="center"><a href="https://github.com/suuuujinnnn">박수진</a></td>
         <td align="center"><a href="">박윤서</a></td>
@@ -18,27 +19,37 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
     </tr>
     <tr width="100%">
         <td align="center">
+          <a href="">
+            🥑 <!-- Replace with the actual image URL -->
+          </a>
+        </td>
+        <td align="center">
           <a href="https://github.com/yunariver">
-            <img src="" width="120px"/><br>🍎
+            🍎
           </a>
         </td>
         <td align="center">
           <a href="https://github.com/suuuujinnnn">
-            <img src="" width="120px"/><br>🍊
+            🍊
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🍋 <!-- Replace with the actual image URL -->
+            🍋 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🍉 <!-- Replace with the actual image URL -->
+            🍉 <!-- Replace with the actual image URL -->
           </a>
         </td>
     </tr>
     <tr width="100%">
+      <td align="center">
+        <small>
+        담당자 선생님🧑‍🏫💛<!-- Add responsibilities for 최유정 here -->
+        </small>
+      </td>
       <td align="center">
         <small>
         대화 처리 시스템 구축<br>
@@ -83,38 +94,34 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
     <tr width="100%">
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🍑 <!-- Replace with the actual image URL -->
+            🍑 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🫐 <!-- Replace with the actual image URL -->
+            🫐 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🍓 <!-- Replace with the actual image URL -->
+            🍓 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🥝 <!-- Replace with the actual image URL -->
+            🥝 <!-- Replace with the actual image URL -->
           </a>
         </td>
         <td align="center">
           <a href="">
-            <img src="" width="120px"/><br>🥥 <!-- Replace with the actual image URL -->
+            🥥 <!-- Replace with the actual image URL -->
           </a>
         </td>
     </tr>
     <tr width="100%">
       <td align="center">
         <small>
-        팜플렛 디자인<br>
-        브랜드 아이덴티티 개발<br>
-        콘텐츠 기획 및 작성<br>
-        디자인 시안 제작<br>
-        인쇄 관리
+        <!-- Add responsibilities for 강민주 here -->
         </small>
       </td>
       <td align="center">
@@ -143,6 +150,7 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
       </td>
    </tr>
 </table>
+
 
 
 
