@@ -1,5 +1,5 @@
-#01.
-# 직업 체험 롤플레잉 게임🎮🧑‍💻🧑‍💻
+
+# 청소년을 위한 직업 체험 롤플레잉 게임🎮🧑‍💻🧑‍💻
 Job+Role Playing! using openAI assistant API, whisper, gradio.
 
 <p align="center">
