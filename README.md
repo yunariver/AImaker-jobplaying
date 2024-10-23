@@ -7,7 +7,7 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 **SEOUL AI MAKER** : 시립서울청소년센터 자치단으로, 인공지능을 활용하여 청소년을 위한 서비스와 교육을 기획하는 단체입니다. 
 AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정적인 변화를 이끌어내기 위해 함께 노력하고 있습니다.
 ## 👶 팀원
-## 👶 팀원 소개
+
 
 <table border="" cellspacing="0" cellpadding="0" max-width="2000px">
     <tr width="100%">
@@ -47,7 +47,7 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
     <tr width="100%">
       <td align="center">
         <small>
-        담당자 선생님🧑‍🏫💛<!-- Add responsibilities for 최유정 here -->
+        담당 선생님💛
         </small>
       </td>
       <td align="center">
@@ -121,7 +121,8 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
     <tr width="100%">
       <td align="center">
         <small>
-        <!-- Add responsibilities for 강민주 here -->
+        팜플렛 기획 및 디자인<br>
+        부스 디자인
         </small>
       </td>
       <td align="center">
@@ -133,7 +134,7 @@ AI 기술을 활용한 창의적인 문제 해결과 청소년들에게 긍정�
       <td align="center">
         <small>
         직업별 페르소나 설정 및 스토리라인 구체화<br>
-        피드백 수집 및 평가
+        피드백 수집
         </small>
       </td>
       <td align="center">
