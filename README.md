@@ -5,6 +5,11 @@ Job+Role Playing! using openAI assistant API, whisper, gradio.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0728ead3-2cda-4164-9afe-d502c944de80" alt="무제3">
 </p>
+게임 완료 시
+
+
+https://github.com/user-attachments/assets/991b4ebd-95d3-4fff-95e3-8e3cbc532ded
+
 
 (2024.10.5 ~2024.10.26 )
 
